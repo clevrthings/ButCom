@@ -314,3 +314,5 @@ Contributions are welcome:
 - Tooling to visualize the protocol timing
 - Better integration with Arduino Library Manager
 
+# Support my work
+If you like my work you can always [buy me a coffee!](https://buymeacoffee.com/clevrthings)
